@@ -1,3 +1,6 @@
+//The code used was provided in the lab. Action Server
+
+
 public class SharedState {
     private double Client1Acc, Client2Acc, Client3Acc;
     private boolean accessing = false; // true a thread has a lock, false otherwise

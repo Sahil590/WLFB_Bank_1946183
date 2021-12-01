@@ -1,6 +1,10 @@
+//The code used was provided in the lab. Action Server
+
+
 
 import java.io.*;
 import java.net.*;
+
 
 public class Client1 {
     public static void main(String[] args) throws IOException {
